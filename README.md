@@ -11,4 +11,5 @@ To install pandas, use:
 ## Installing
 1. Download all the images
 2. Download supporting class files
+3. Download data in canteen.csv
 3. Download the finale file to run
